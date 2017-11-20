@@ -1,5 +1,5 @@
 Release Management
-==================
+===================
 
 After pylint 2.0, which is scheduled to be released somewhere around in
 July, we are planning to do releases more often. The intentional plan is
